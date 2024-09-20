@@ -1,0 +1,1 @@
+Think of it as the cloud for developers. The idea is to not rely on only one source where the code comes from. If we were to rely on only one source aka computer, we would run the risk of losing all of our work in the case the laptop was stolen or damaged.
